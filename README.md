@@ -1,4 +1,4 @@
-# HI, I'M RASEL SHIKDAR 🙋🏻‍♀️
+# HI, I'M RASEL 🙋
 
 ###
 
