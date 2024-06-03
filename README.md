@@ -45,9 +45,9 @@ Currently I'm a student of The Trust IT Solutions LTD, where I'm learning how to
 
 ![](https://github-contributor-stats.vercel.app/api?username=raselshikdar&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### Random Dev Blog
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://rsinfo.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rahul-Khawse&icon=3&color=1)](https://visitcount.itsvg.in)
