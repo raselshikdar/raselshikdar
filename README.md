@@ -24,7 +24,6 @@ Currently I'm a student of The Trust IT Solutions LTD, where I'm learning how to
 <br/>
 
 🦋 A great learner.
-
 <br/>
 
 ## 🌐 Socials: 
