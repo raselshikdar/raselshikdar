@@ -38,10 +38,6 @@ I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Cent
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rahul-Khawse&icon=3&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###
 <div align="center">
 	<a 
 		href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
