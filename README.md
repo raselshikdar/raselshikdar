@@ -10,7 +10,7 @@
     </p>
 </div>
 
-I'm **Rasel Shikdar**, a post graduate with a Masters's Degree from [National University of Bangladesh (NU) 🐿️](https://www.nu.ac.bd/), driven by a ***sincere passion*** for **Political Science 🌏**.
+I'm **Rasel Shikdar**, a post graduate with a Masters's Degree from [National University of Bangladesh (NU)](https://www.nu.ac.bd/), driven by a ***sincere passion*** for **Political Science 🌏**.
 
 ## 🌐 Socials: 
 
