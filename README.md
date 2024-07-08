@@ -11,7 +11,7 @@
 
 I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Central University (NCU) 🐿️](https://www.ncu.edu.tw/), driven by a ***sincere passion*** for **Software Engineering 💻**.
 
-## 🌐 Socials: 
+## 🌐 &npsb; Socials: 
 
 <a  href="https://www.linkedin.com/in/rasel597/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/RaselShikdar_" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
@@ -21,7 +21,7 @@ I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Cent
 <a  href="https://www.instagram.com/raselshiikdar/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
    
-# 💻 Tech Stack:
+## 💻 &npsb; Tech Stack:
 
 <p align="left">
 	<a href="https://skillicons.dev">
