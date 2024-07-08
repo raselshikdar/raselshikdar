@@ -1,5 +1,5 @@
 
-<div align="right">
+<div align="center">
     <p>
         <a href="https://1chooo.com" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
         <a href="https://blog.1chooo.com" target="_blank"><b>📓 Blog</b></a> |
@@ -17,7 +17,7 @@ I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Cent
    
 ## 💻 Tech Stack:
 
-<p align="left">
+<p align="center">
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=py,java,cpp,go,ts,md,bash,latex" />
 	</a>
@@ -34,7 +34,8 @@ I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Cent
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raselshikdar&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raselshikdar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
