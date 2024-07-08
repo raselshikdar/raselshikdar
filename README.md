@@ -1,8 +1,8 @@
 
 <div align="center">
     <p>
-        <a href="https://1chooo.com" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
-        <a href="https://blog.1chooo.com" target="_blank"><b>📓 Blog</b></a> |
+        <a href="https://rasel.us.kg" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
+        <a href="https://rsblog.us.kg" target="_blank"><b>📓 Blog</b></a> |
         <a href="https://1chooo.com/cv.pdf" target="_blank"><b>🧳 Linkedin</b></a> |
         <a href="https://1chooo.com/cv.pdf" target="_blank"><b>📜 Resume</b></a> |
         <a href="https://medium.com/@1chooo" target="_blank"><b>📠 Medium</b></a> 
