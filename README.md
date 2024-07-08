@@ -1,30 +1,15 @@
-# HI, I'M RASEL 🙋
 
-###
+<div align="right">
+    <p>
+        <a href="https://1chooo.com" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
+        <a href="https://blog.1chooo.com" target="_blank"><b>📓 Blog</b></a> |
+        <a href="https://1chooo.com/cv.pdf" target="_blank"><b>🧳 Linkedin</b></a> |
+        <a href="https://1chooo.com/cv.pdf" target="_blank"><b>📜 Resume</b></a> |
+        <a href="https://medium.com/@1chooo" target="_blank"><b>📠 Medium</b></a> 
+    </p>
+</div>
 
-## 💫 About Me:
-
-🦋 I'm a web developer who loves to create beautiful and functional websites for people who want to make a difference in the world.
-
-Currently I'm a student of The Trust IT Solutions LTD, where I'm learning how to create beautiful and functional websites using HTML, CSS, JavaScript, and WordPress..
-<br/>
-
-🦋 I love Competitive Programming, Web development and learning new skills.
-<br/>
-
-## ✨My Values✨
-
-🦋 Beginner's mindset and curiosity.
-<br>
-
-🦋 Positive towards everything
-<br/>
-
-🦋 Works hard on tasks till the goal is achieved.
-<br/>
-
-🦋 A great learner.
-<br/>
+I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Central University (NCU) 🐿️](https://www.ncu.edu.tw/), driven by a ***sincere passion*** for **Software Engineering 💻**.
 
 ## 🌐 Socials: 
 
@@ -38,7 +23,7 @@ Currently I'm a student of The Trust IT Solutions LTD, where I'm learning how to
    
 # 💻 Tech Stack:
 
-<p align="center">
+<p align="left">
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=py,java,cpp,go,ts,md,bash,latex" />
 	</a>
