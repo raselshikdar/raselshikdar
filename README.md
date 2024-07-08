@@ -1,4 +1,4 @@
-<h1>Rasel Shikdar</h1>
+<div align="center"><h1>Rasel Shikdar</h1></div>div
 
 <div align="center">
     <p>
@@ -10,7 +10,7 @@
     </p>
 </div>
 
-I'm **Hugo ChunHo Lin**, a graduate with a Bachelor's degree from [National Central University (NCU) 🐿️](https://www.ncu.edu.tw/), driven by a ***sincere passion*** for **Software Engineering 💻**.
+I'm **Rasel Shikdar**, a post graduate with a Masters's Degree from [National University of Bangladesh (NU) 🐿️](https://www.nu.ac.bd/), driven by a ***sincere passion*** for **Political Science 🌏**.
 
 ## 🌐 Socials: 
 
