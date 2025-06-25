@@ -2,8 +2,8 @@
 
 <div align="center">
     <p>
-        <a href="https://rasel.us.kg" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
-        <a href="https://rsblog.us.kg" target="_blank"><b>📓 Blog</b></a> |
+        <a href="https://rasel.is-a.dev" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
+        <a href="https://rasel.js.pm" target="_blank"><b>📓 Blog</b></a> |
         <a href="https://github.com/raselshikdar/rsinfo/raw/main/static/Rasel-Shikdar-Resume.pdf" target="_blank"><b>📜 Resume</b></a> |
         <a href="https://x.com/RaselShikdar_" target="_blank"><b>🐦 Twitter</b></a> |
         <a href="https://www.itdorpon.news" target="_blank"><b>🌐 Web</b></a> 
