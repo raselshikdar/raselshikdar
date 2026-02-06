@@ -47,7 +47,8 @@
 </div>
 
 <br/>
-...
+
+---
 
 <div align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
