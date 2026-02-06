@@ -10,7 +10,7 @@
     <img src="https://img.icons8.com/fluency/48/twitterx.png" alt="X" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://bsky.app/profile/raselshikdar.bsky.social">
+  <a href="https://bsky.app/profile/rasel.cli.rs">
     <img src="https://img.icons8.com/fluency/48/bluesky.png" alt="Bluesky" />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -34,7 +34,7 @@
   &nbsp;&nbsp;&nbsp;
 
   <!-- Telegram -->
-  <a href="https://t.me/raselshikdar" title="Telegram">
+  <a href="https://t.me/rasel597" title="Telegram">
     <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram" />
   </a>
 </p>
