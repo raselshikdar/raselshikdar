@@ -2,23 +2,24 @@
 
 <h3 align="left">🔗 Socials:</h3>
 <p align="left">
-  <a href="https://discord.gg/yourinvitecode" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://facebook.com/raselverse" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="30" alt="Facebook" />
   </a>
-  <a href="https://facebook.com/raselshikdar" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  &nbsp;&nbsp;
+  <a href="https://x.com/raselshikdar_" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" height="30" alt="X (Twitter)" />
   </a>
-  <a href="https://instagram.com/raselshikdar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  &nbsp;&nbsp;
+  <a href="https://bsky.app/profile/raselshikdar.bsky.social" target="_blank">
+    <img src="https://cdn.simpleicons.org/bluesky/0285FF" height="30" alt="Bluesky" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/raselshikdar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@raselshikdar" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://twitter.com/raselshikdar" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/raselverse" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram" />
   </a>
 </p>
 
