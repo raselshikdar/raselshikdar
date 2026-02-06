@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif
+![](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
 <h3 align="left">🔗 Socials:</h3>
 <p align="left">
