@@ -34,6 +34,28 @@
 <br/>
 
 <h3 align="left">📊 GitHub Stats:</h3>
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/raselshikdar/raselshikdar">
+        <img src="https://img.shields.io/badge/status-updating-brightgreen.svg">
+    </a>
+    <a href="https://github.com/python/cpython">
+        <img src="https://img.shields.io/badge/Python-3.10-FF1493.svg">
+    </a>
+    <a href="https://github.com/raselshikdar/raselshikdar/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/raselshikdar/raselshikdar?color=blue">
+    </a>
+    <a href="https://github.com/raselshikdar/raselshikdar/stargazers">
+        <img src="https://img.shields.io/github/stars/raselshikdar/raselshikdar.svg?logo=github">
+    </a>
+    <a href="https://github.com/raselshikdar/raselshikdar/network/members">
+        <img src="https://img.shields.io/github/forks/raselshikdar/raselshikdar.svg?color=blue&logo=github">
+    </a>
+    <a href="https://visitorbadge.io/status?path=raselshikdar">
+        <img src="https://api.visitorbadge.io/api/daily?path=raselshikdar&labelColor=%23697689&countColor=%2337d67a&style=plastic&labelStyle=none" />
+    </a>
+</p>
+
 <div align="center">
   <a href="https://github.com/raselshikdar">
     <img src="https://github-readme-stats.vercel.app/api?username=raselshikdar&show_icons=true&theme=radical&count_private=true" height="180" alt="Rasel's GitHub Stats" />
