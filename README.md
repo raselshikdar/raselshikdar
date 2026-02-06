@@ -3,23 +3,23 @@
 <h3 align="left">🔗 Socials:</h3>
 <p align="left">
   <a href="https://facebook.com/raselverse">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" />
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/raselshikdar_">
-    <img src="https://img.icons8.com/color/48/twitterx.png" />
+    <img src="https://img.icons8.com/fluency/48/twitterx.png" alt="X" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://bsky.app/profile/raselshikdar.bsky.social">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height="48" />
+    <img src="https://img.icons8.com/fluency/48/bluesky.png" alt="Bluesky" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/raselshikdar">
-    <img src="https://img.icons8.com/color/48/linkedin.png" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/raselverse">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" />
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" />
   </a>
 </p>
 
