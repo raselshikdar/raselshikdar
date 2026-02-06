@@ -2,44 +2,24 @@
 
 <h3 align="left">🔗 Socials:</h3>
 <p align="left">
-  <a href="https://facebook.com/raselverse" aria-label="Facebook">
-    <img
-      src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-      height="32"
-      style="border-radius:50%"
-    />
+  <a href="https://facebook.com/raselverse">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" />
   </a>
-
-  <a href="https://x.com/raselshikdar_" aria-label="X (Twitter)">
-    <img
-      src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white"
-      height="32"
-      style="border-radius:50%"
-    />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/raselshikdar_">
+    <img src="https://img.icons8.com/color/48/twitterx.png" />
   </a>
-
-  <a href="https://bsky.app/profile/raselshikdar.bsky.social" aria-label="Bluesky">
-    <img
-      src="https://img.shields.io/badge/-Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"
-      height="32"
-      style="border-radius:50%"
-    />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://bsky.app/profile/raselshikdar.bsky.social">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height="48" />
   </a>
-
-  <a href="https://linkedin.com/in/raselshikdar" aria-label="LinkedIn">
-    <img
-      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      height="32"
-      style="border-radius:50%"
-    />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/raselshikdar">
+    <img src="https://img.icons8.com/color/48/linkedin.png" />
   </a>
-
-  <a href="https://instagram.com/raselverse" aria-label="Instagram">
-    <img
-      src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      height="32"
-      style="border-radius:50%"
-    />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/raselverse">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" />
   </a>
 </p>
 
