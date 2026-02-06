@@ -1,7 +1,4 @@
-<h1 align="center">Hi there, I'm Rasel 👋</h1>
-<h3 align="center">A passionate developer from Bangladesh 🇧🇩</h3>
-
-<br/>
+https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif
 
 <h3 align="left">🔗 Socials:</h3>
 <p align="left">
