@@ -28,6 +28,22 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,cpp,go,ts,md,bash,latex,linux,aws,githubactions,docker,fastapi,react,flask,dynamodb&perline=8" alt="My Tech Stack" />
   </a>
+
+  <a href="mailto:info@raselsh.pro.bd" title="Email">
+    <img src="https://img.icons8.com/fluency/48/new-post.png" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Personal Portfolio -->
+  <a href="https://raselsh.site" title="Personal Portfolio">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio Website" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Telegram -->
+  <a href="https://t.me/raselshikdar" title="Telegram">
+    <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram" />
+  </a>
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
