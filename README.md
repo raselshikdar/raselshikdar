@@ -2,24 +2,44 @@
 
 <h3 align="left">🔗 Socials:</h3>
 <p align="left">
-  <a href="https://facebook.com/raselverse" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="30" alt="Facebook" />
+  <a href="https://facebook.com/raselverse" aria-label="Facebook">
+    <img
+      src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      height="32"
+      style="border-radius:50%"
+    />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/raselshikdar_" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" height="30" alt="X (Twitter)" />
+
+  <a href="https://x.com/raselshikdar_" aria-label="X (Twitter)">
+    <img
+      src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white"
+      height="32"
+      style="border-radius:50%"
+    />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://bsky.app/profile/raselshikdar.bsky.social" target="_blank">
-    <img src="https://cdn.simpleicons.org/bluesky/0285FF" height="30" alt="Bluesky" />
+
+  <a href="https://bsky.app/profile/raselshikdar.bsky.social" aria-label="Bluesky">
+    <img
+      src="https://img.shields.io/badge/-Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"
+      height="32"
+      style="border-radius:50%"
+    />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/raselshikdar" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn" />
+
+  <a href="https://linkedin.com/in/raselshikdar" aria-label="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      height="32"
+      style="border-radius:50%"
+    />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/raselverse" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram" />
+
+  <a href="https://instagram.com/raselverse" aria-label="Instagram">
+    <img
+      src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      height="32"
+      style="border-radius:50%"
+    />
   </a>
 </p>
 
